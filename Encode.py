@@ -80,5 +80,5 @@ def compress_row(row):
 
 if __name__ == "__main__":
     input_image_path = "your_image.png"  # Replace with your image path
-    output_text_path = "ultra_compressed_output_pixels.txt"
+    output_text_path = "compressed_output.txt"
     image_to_ultra_compressed_text(input_image_path, output_text_path)
